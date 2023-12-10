@@ -26,6 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="325" alt="1" src="https://github.com/sshikharr/Huddle-Landing/assets/148746530/4fd799cb-43df-4cfb-a25d-686e1325d894">
+
+
+
+<img width="619" alt="3" src="https://github.com/sshikharr/Huddle-Landing/assets/148746530/2977d9f0-6068-46da-bab5-5e79c6ecfbe1">
+
+
+<img width="405" alt="2" src="https://github.com/sshikharr/Huddle-Landing/assets/148746530/fe4a48de-e8af-4ac3-9b24-ebc349fc27af">
+
+
+
+https://github.com/sshikharr/Huddle-Landing/assets/148746530/6a3986da-1fa2-4e9a-a5d2-d14ec3627a7a
+
 
 
 ### Built with
